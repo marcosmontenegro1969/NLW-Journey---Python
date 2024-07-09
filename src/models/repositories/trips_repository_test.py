@@ -1,4 +1,4 @@
-import pytest
+import pytest #type: ignore
 import uuid
 from datetime import datetime, timedelta
 from src.models.repositories.trips_repository import TripsRepository
